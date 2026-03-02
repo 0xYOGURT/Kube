@@ -14,9 +14,3 @@ This project is a simple **OpenGL 3.3** demo using **GLFW** and **GLAD** that re
 - [GLFW](https://www.glfw.org/) library
 - [GLAD](https://glad.dav1d.de/) OpenGL loader
 
-## Setup
-
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
