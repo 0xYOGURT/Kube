@@ -1,0 +1,30 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ilk
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+/build/
+*.out
+*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
